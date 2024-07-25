@@ -1,0 +1,82 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    line-height: 50px ; 
+    font-size: 25px;
+
+}
+header,h1{
+    background-color:brown ;
+    color: aliceblue;
+    text-align:center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+font-size: 80px;
+
+}
+
+h1,h2{
+    font-family: "Pixelify Sans", sans-serif;
+    
+}
+
+
+header img{
+    border-radius: 170px;
+    width: 300px;
+    border: 15px solid rgb(255, 255, 255) ;
+    
+}
+main{ 
+    max-width: 800px;
+     margin: 0% auto;
+     padding: 20px ;
+}
+main img{
+    max-width: 100%;
+}
+h2{
+font-size: 35px;
+color: #e70c19;
+margin: 40px 0 10px;
+
+}
+p,ul,ol{
+    font-family: "Playwrite BE VLG", cursive;
+    font-weight: bold;
+    
+}
+figcaption.caption{
+    
+    font-family: "Playwrite BE VLG", cursive;
+    font-weight: bold;
+    color: #e70c19;
+    text-align: center;
+    margin: 0%;
+}
+a{
+    color: #e70c19;
+
+}
+a:hover{
+
+     color:black;
+}
+footer{
+    background-color:brown ;
+text-align: center;
+color: whitesmoke;
+padding: 50px;
+footer p{
+    margin: 0;
+}
+}
+footer a{
+    color: bisque;
+}
+footer a:hover{
+    color: rgb(72, 224, 191);
+    opacity: .5;
+    background-color: transparent;
+    
+}
